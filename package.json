@@ -1,0 +1,25 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoderLeE920/09-HW-ReadMe-Generator.git"
+  },
+  "author": "Thai Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CoderLeE920/09-HW-ReadMe-Generator/issues"
+  },
+  "homepage": "https://github.com/CoderLeE920/09-HW-ReadMe-Generator#readme",
+  "keywords": [
+    "readme"
+  ],
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
