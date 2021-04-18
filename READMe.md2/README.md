@@ -29,4 +29,4 @@ so that I can quickly create a professional README for a new project.
 
 # Check it out! :)
 
-![Alt text](/09-HW.gif)
+![Alt text](09-HW-ReadMe-Generator/09-HW.gif)
